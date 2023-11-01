@@ -87,4 +87,5 @@
 
 .shopify-section.section .collection .title-wrapper h2.title.inline-richtext strong {
   color: green !important;    
+  text-decoration: none;
 }
