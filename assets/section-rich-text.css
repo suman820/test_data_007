@@ -85,6 +85,6 @@
   justify-content: flex-end;
 }
 
-.shopify-section.section .collection .title-wrapper h2.title > strong {
-  color: red;
+.shopify-section.section .collection .title-wrapper h2.title strong {
+  color: red !important;
 }
