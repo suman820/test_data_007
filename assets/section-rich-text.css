@@ -84,3 +84,7 @@
 .rich-text__blocks.right .rich-text__buttons {
   justify-content: flex-end;
 }
+
+.shopify-section.section .collection .title-wrapper h2.title > strong {
+  color: red;
+}
