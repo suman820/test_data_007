@@ -3134,6 +3134,10 @@ details-disclosure > details {
   margin: -0.5rem 0 -0.5rem 0;
 }
 
+.shopify-section.section .collection .title-wrapper h2.title strong {
+  color: red;
+}
+
 /* Ambient animation */
 
 @media (prefers-reduced-motion: no-preference) {
